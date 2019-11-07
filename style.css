@@ -1,0 +1,22 @@
+ul.header li{
+  list-style: none;
+  display: inline-block;
+  margin: 0px;
+}
+
+ul.header {
+  background: #111;
+  padding: 0px;
+
+}
+
+ul.header li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+
+.active {
+  background: green;
+}
